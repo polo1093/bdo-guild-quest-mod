@@ -2,16 +2,23 @@
 
 * What is it?
 
-This is a simple language file mod that works standalone (do not require pyx nor any other tool or installation).
+This is a simple language file mod that works standalone (do not require any other tool or file installation).
 
 * Whats used for?
 
-This is used to make possible to see guild quests requirements/conditions to be completed BEFORE you accept it (normaly you can only see/know that information after taking the quest, sometimes ending with a bad choice one).
+This is used to make possible to see guild quests requirements/conditions to be completed BEFORE you accept it (normaly you can only see/know that information after taking the quest, sometimes ending with a bad choice).
+
+http://puu.sh/oWrlt.png
+http://puu.sh/oWron.png
 
 * How to use it?
 
-Download zipped file from git.
-With the game client closed, extract zipped file contents folder to your Black Desert Game "MAIN FOLDER" (it should create a new folder there called "prestringtable", inside must be another folder called "en" and inside it 4 xlsm files).
+Download zipped file from Git.
+With the game client closed, extract zipped file contents folder to your Black Desert Game "MAIN FOLDER": 
+(it should create a new folder there called "prestringtable", inside must be another folder called "en" and inside it 4 xlsm files).
+
+http://puu.sh/oWjEj.png
+
 Now run game client using ENGLISH as your configured game language, after entering game, press "G" and check guild quests tab, you must now see all resumed infos about quest conditions to complete before you choose to accept or not.
 Update this folder/files once per week when retail servers update/mantainance.
 
