@@ -1,2 +1,51 @@
-# bdo-guild-quest-mod
-Black Desert Online Guild Quest Display Modification
+#Guild Quest Condition-Objetive Pre-Viewer
+
+* What is it?
+
+This is a simple language file mod that works standalone (do not require pyx nor any other tool or installation).
+
+* Whats used for?
+
+This is used to make possible to see guild quests requirements/conditions to be completed BEFORE you accept it (normaly you can only see/know that information after taking the quest, sometimes ending with a bad choice one).
+
+* How to use it?
+
+Download zipped file from git.
+With the game client closed, extract zipped file contents folder to your Black Desert Game "MAIN FOLDER" (it should create a new folder there called "prestringtable", inside must be another folder called "en" and inside it 4 xlsm files).
+Now run game client using ENGLISH as your configured game language, after entering game, press "G" and check guild quests tab, you must now see all resumed infos about quest conditions to complete before you choose to accept or not.
+Update this folder/files once per week when retail servers update/mantainance.
+
+* What to avoid?
+
+If your launcher updates game client somehow, you must NOT use this files/folders, so in that case delete/remove "prestringtable" folder within all the files inside and wait for my update on this topic.
+
+# FAQ
+
+* This works for all Black Desert clients?
+Answer is NO. It only works for EU/NA clients. (no i wont do it for others regions).
+
+* This works for all Black Desert EU/NA languages?
+Answer is NO. It only works for EU/NA clients using ENGLISH as game language option. (i can do DE/FR support if requested by more users).
+
+* This contains what type of quests?
+All guild quests. Including 3 types: subjugation, gathering, trading.
+NOTE: subjugation quests are named as "KILL", gathering quests are named as "GET" for gather ones and "FISH" for fishing ones, trade quests are named as "DELIVER".
+
+* My client crashes on loading/startup;
+Your prestringtable folder/files are outdated due to client updates, delete the folder and wait for me to update the files on this topic.
+
+* How do i know if my folder/files are updated or valid?
+check zip file name "date" or check this topic "expiration/validity dates"
+
+* Can i be banned for using this?
+Same thing as using pyx, scripts etc, yes you can, but since this method is being used by me and thousands of other players from KR,JP,RU during 2 years without any issues, you can chill.
+
+* Can i re-share, re-link or sell this files?
+
+Answer is obvious: you must not, i wish this to be keept free and public and mainly to Pyx Forum users, since they requested me this work. of course i accept any donation/help anyone is kind to make.
+
+# VALIDATION / EXPIRATION DATES
+
+Validation Start: May 18 2016
+
+Expiration Date: June 01 2016
