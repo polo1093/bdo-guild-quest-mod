@@ -9,6 +9,7 @@ This is a simple language file mod that works standalone (do not require any oth
 This is used to make possible to see guild quests requirements/conditions to be completed BEFORE you accept it (normaly you can only see/know that information after taking the quest, sometimes ending with a bad choice).
 
 http://puu.sh/oWrlt.png
+
 http://puu.sh/oWron.png
 
 * How to use it?
