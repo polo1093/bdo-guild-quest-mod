@@ -58,4 +58,6 @@ Validation Start: May 18 2016
 
 Expiration Date: June 01 2016
 
+# DISCLAIMER
+
 If you use this mod and you are happy with it, please hit "thanks" and "like" buttons and/or consider making my efforts worth and help me to keep my Pyx Sub paid for some more time making a small donation. pm me on this forum or on discord CKM#6678 for infos. thanks in advance.
