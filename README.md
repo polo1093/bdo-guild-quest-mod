@@ -16,11 +16,11 @@ http://puu.sh/oWron.png
 
 Download zipped file from Git.
 With the game client closed, extract zipped file contents folder to your Black Desert Game "MAIN FOLDER": 
-(it should create a new folder there called "prestringtable", inside must be another folder called "en" and inside it 4 xlsm files).
+(it should create a new folder there called "prestringtable", inside must be other folders called "en" & "de" and inside each folder 4 xlsm files).
 
 http://puu.sh/oWjEj.png
 
-Now run game client using ENGLISH as your configured game language, after entering game, press "G" and check guild quests tab, you must now see all resumed infos about quest conditions to complete before you choose to accept or not.
+Now run game client using ENGLISH or DEUTSCH as your configured game language, after entering game, press "G" and check guild quests tab, you must now see all resumed infos about quest conditions to complete before you choose to accept or not.
 Update this folder/files once per week when retail servers update/mantainance.
 
 * What to avoid?
@@ -33,7 +33,7 @@ If your launcher updates game client somehow, you must NOT use this files/folder
 Answer is NO. It only works for EU/NA clients. (no i wont do it for others regions).
 
 * This works for all Black Desert EU/NA languages?
-Answer is NO. It only works for EU/NA clients using ENGLISH as game language option. (i can do DE/FR support if requested by more users).
+Answer is NO. It only works for EU/NA clients using ENGLISH or DEUSTCH as game language option. (i can do FR support if requested by more users).
 
 * This contains what type of quests?
 All guild quests. Including 3 types: subjugation, gathering, trading.
