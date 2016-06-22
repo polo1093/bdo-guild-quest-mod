@@ -16,11 +16,11 @@ http://puu.sh/oWron.png
 
 Download zipped file from Git.
 With the game client closed, extract zipped file contents folder to your Black Desert Game "MAIN FOLDER": 
-(it should create a new folder there called "prestringtable", inside must be other folders called "en" & "de" and inside each folder 4 xlsm files).
+(it should create a new folder there called "prestringtable", inside must be other folders called "en","de","fr" and inside each folder 4 xlsm files).
 
 http://puu.sh/oWjEj.png
 
-Now run game client using ENGLISH or DEUTSCH as your configured game language, after entering game, press "G" and check guild quests tab, you must now see all resumed infos about quest conditions to complete before you choose to accept or not.
+Now run game client using ENGLISH, DEUTSCH, FRENCH as your configured game language, after entering game, press "G" and check guild quests tab, you must now see all resumed infos about quest conditions to complete before you choose to accept or not.
 Update this folder/files once per week when retail servers update/mantainance.
 
 * What to avoid?
@@ -33,7 +33,7 @@ If your launcher updates game client somehow, you must NOT use this files/folder
 Answer is NO. It only works for EU/NA clients. (no i wont do it for others regions).
 
 * This works for all Black Desert EU/NA languages?
-Answer is NO. It only works for EU/NA clients using ENGLISH or DEUSTCH as game language option. (i can do FR support if requested by more users).
+Answer is YES. It only works for EU/NA clients using ENGLISH, DEUSTCH, FRENCH as game language option. (for better grammar support its requested users help).
 
 * This contains what type of quests?
 All guild quests. Including 3 types: subjugation, gathering, trading.
@@ -54,9 +54,9 @@ Answer is obvious: you must not, i wish this to be keept free and public and mai
 
 # VALIDATION / EXPIRATION DATES
 
-Validation Start: June 17 2016
+Validation Start: June 22 2016
 
-Expiration Date: June 22 2016
+Expiration Date: June 29 2016
 
 # DISCLAIMER
 

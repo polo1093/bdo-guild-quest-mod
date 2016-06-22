@@ -1,0 +1,232 @@
+^GuildQuestNo	~Title	~Desc
+1	[Commerce] Mission de livraison urgente	Livrer le brasseur de médicaments à domicile à Lara, à Heidel; Livrer la graine d'esprit des arbres à Lebyos, à Heidel; Livrer le pot de sel d'Iliya à David Finto, à Velia.
+2	[Commerce] Mission de livraison urgente	Livrer le cerf-volant à souhaits à Rubin, à Calpheon; Livrer la boue séchée de Freharau à Kaia Feresio, à Calpheon; Livrer le chapeau traditionnel shai à Izella, à Florin.
+3	[Commerce] Mission de livraison urgente	Livrer le livre L'aventure étrange de Bartali à Balker Batian, à Calpheon; Livrer l'œuf frais de fogan à Melissa Brady, à Heidel; Livrer le manuel d'arts martiaux des Chevaliers d'Heidel à Lilvanos, à Keplan.
+4	[Commerce] Mission de livraison urgente	Livrer la confiture de raison d'Olvia à Amerigo, à Heidel; Livrer les excréments d'ogre à Lilvanos, à Keplan; Livrer le vin de Velia à Fredelles Herba, à Calpheon.
+5	[Commerce] Mission de livraison urgente	Livrer le pot de sel d'Iliya à Olivia, à Heidel; Livrer le manuel d'arts martiaux des Chevaliers d'Heidel à Psebor, à Calpheon.
+6	[Commerce] Mission de livraison urgente	Livrer la boue séchée de Freharau à Gabril, à Calpheon; Livrer le kit de premiers soins d'Heidel à Hessenvale, au poste de garde Ouest.
+7	[Commerce] Mission de livraison urgente	Livrer le kit de premiers soins d'Heidel à Feinia, au poste de garde Ouest; Livrer le minerai rouge des éfrits à Kardash, à Glish; Livrer le chapeau traditionnel shai à Herar, à Florin.
+8	[Commerce] Mission de livraison urgente	Livrer le brasseur de médicaments à domicile à Izella, à Florin; Livrer le philtre d'amour n° 6 à Geoffrey Erne, à Calpheon; Livrer le minerai rouge des éfrits à Kardash, à Glish.
+9	[Commerce] Mission de livraison urgente	Livrer le livre L'aventure étrange de Bartali à Amaranto, à Glish; Livrer les chaussures en cuir de Lebyos à Laniero Lucci, à Keplan; Livrer la brique crue de Glish à Angela, à Calpheon.
+10	[Commerce] Mission de livraison urgente	Livrer la lance demi-lune des fogans à Ronatz, à Calpheon; Livrer le pot de sel d'Iliya à Fredelles Herba, à Calpheon; Livrer le verre en cristal de Velia à Irellio Lucci, à Keplan.
+11	[Commerce] Mission de livraison urgente	Livrer le verre en cristal de Velia à Seilane, à Glish; Livrer le chapeau traditionnel shai à Stella, à Florin; Livrer les chaussures en cuir de Lebyos à Christine Cessory, à Keplan.
+12	[Commerce] Mission de livraison urgente	Livrer la fourrure de renard au troll tacheté, à Trent; Livrer le livre L'aventure étrange de Bartali à Phyria, à Epheria; Livrer l'excrément d'ogre à Lilvanos, à Keplan.
+13	[Commerce] Mission de livraison urgente	Livrer la trousse de soins d'urgence à Alchem, à Calpheon; Livrer le minerai rouge des éfrits à Irellio Lucci, à Keplan; Livrer le pot de sel d'Iliya à Olivia, à Heidel.
+14	[Commerce] Mission de livraison urgente	Livrer la statue de poisson porte-bonheur à Ahr, à Calpheon; Livrer la statue du dragon d'Oyun à Lilvayne, à Calpheon; Livrer la boue séchée de Freharau à Baori, sur l'île d'Iliya; Livrer la lance demi-lune des fogans à Andria, à Keplan.
+15	[Commerce] Mission de livraison urgente	Livrer la bougie parfumée de Teviral à Ornella, à Heidel; Livrer l'aide aux bas-fonds de Calpheon à Ottavio Ferre, à Velia; Livrer le sébum de fogan à Bevel, à Trent; Livrer les rubans de madame Pillaf à Lavientia Batian, à Calpheon.
+16	[Commerce] Mission de livraison urgente	Livrer le réactif rouge des alchimistes à Geranoa, à Calpheon; Livrer la fourrure de renard au troll tacheté, à Trent; Livrer le minerai de fer pur à Shurd, à Keplan; Livrer la patte arrière séchée de fogan à Baori, sur l'île d'Iliya.
+17	[Commerce] Mission de livraison urgente	Livrer le portrait de l'empereur à Philaberto Falasi, à Epheria; Livrer le tissu d'Aurobyl à Zaaira, à Velia; Livrer le paquet de vieux livres à Enrico Mancini, à Heidel; Livrer le pot de sel d'Iliya à Deborah, à Glish.
+18	[Commerce] Mission de livraison urgente	Livrer le fragment noir de chimère à Srulk, à Epheria; Livrer la bougie parfumée de Teviral à Eileen, à Velia; Livrer la sculpture de l'esprit de la Terre à Ornella, à Heidel; Livrer le verre en cristal de Velia à Bianstimi, à Calpheon.
+19	[Commerce] Mission de livraison urgente	Livrer le sébum de fogan à Mayeri, à Trent; Livrer l'œuf frais de fogan à Phyria, à Epheria; Livrer le cerf-volant à souhaits à Lillia, sur l'île d'Iliya; Livrer la lance demi-lune des fogans à Ronatz, à Calpheon.
+20	[Commerce] Mission de livraison urgente	Livrer la branche de chêne imprégnée de magie à Stella, à Florin; Livrer la poche de venin d'araignée de buisson à Laniero Lucci, à Keplan; Livrer le pot de sel d'Iliya à Augusta, à Trent; Livrer la bougie parfumée de Teviral à Clorince, à Velia.
+21	[Commerce] Mission de livraison urgente	Livrer le calmant de Valkyrie à Isobelle Encarotia, à Heidel; Livrer le baume anti-Valentin à Baori, sur l'île d'Iliya; Livrer le collier de perles à Amaranto, à Glish; Livrer le minerai de fer pur à Andria, à Keplan.
+22	[Commerce] Mission de livraison urgente	Livrer le gilet en toile d'araignée à Shurd, à Keplan; Livrer le fromage des montagnes d'Olvia à Fredelles Herba, à Calpheon; Livrer la planche vélienne à Mayeri, à Trent; Livrer la statue de poisson porte-bonheur à Ario, à Calpheon.
+23	[Commerce] Mission de livraison urgente	Livrer la pointe de flèche empoisonnée à Lilvanos, à Keplan; Livrer le kit de déplacement de palettes à Baori, sur l'île d'Iliya; Livrer le paquet de vieux livres à Enrico Mancini, à Heidel; Livrer le costume de nymphe à Kanna, à Glish.
+24	[Commerce] Mission de livraison urgente	Livrer l'arme de naga confisquée à Psebor, à Calpheon; Livrer les chaussures en cuir de Lebyos au troll tacheté, à Trent; Livrer le porc à griller emballé à Olivia, à Heidel; Livrer la saucisse de poisson à Deborah, à Glish.
+25	[Commerce] Mission de livraison urgente	Livrer la statue du dragon d'Oyun à Srulk, à Epheria; Livrer l'œuf frais de fogan à Lilvanos, à Keplan; Livrer le pack d'outils nains dernier cri à Mayeri, à Trent; Livrer la tourbe du marais noir à Grandus, à Calpheon.
+238	[Récolte] Mission d'approvisionnement de guilde	[350] Récupérer une pierre brute.
+239	[Récolte] Mission d'approvisionnement de guilde	[400] Récupérer des rondins.
+240	[Récolte] Mission d'approvisionnement de guilde	[150] Récupérer du minerai de fer.
+241	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre de frêne.
+242	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre de pin.
+243	[Récolte] Mission d'approvisionnement de guilde	[5] Récupérer une opale brute, Transformer des fragments de fer fondu.
+244	[Récolte] Mission d'approvisionnement de guilde	[50] Attraper un gobie.
+245	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre de bouleau.
+246	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre d'érable.
+247	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre de sapin.
+248	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre de cèdre.
+249	[Récolte] Mission d'approvisionnement de guilde	[90] Récupérer du bois d'œuvre de sapin, Récupérer du bois d'œuvre de bouleau.
+250	[Récolte] Mission d'approvisionnement de guilde	[90] Récupérer du bois d'œuvre d'érable, Récupérer du bois d'œuvre de bouleau.
+251	[Récolte] Mission d'approvisionnement de guilde	[2] Attraper une gorette.
+201	[Récolte] Mission d'approvisionnement de guilde	[700] Récupérer une pierre brute.
+202	[Récolte] Mission d'approvisionnement de guilde	[800] Récupérer des rondins.
+203	[Récolte] Mission d'approvisionnement de guilde	[300] Récupérer du minerai de fer.
+204	[Récolte] Mission d'approvisionnement de guilde	[360] Récupérer du bois d'œuvre de frêne.
+205	[Récolte] Mission d'approvisionnement de guilde	[360] Récupérer du bois d'œuvre de pin.
+206	[Récolte] Mission d'approvisionnement de guilde	[8] Récupérer une opale brute, Transformer des fragments de fer fondu.
+207	[Récolte] Mission d'approvisionnement de guilde	[100] Attraper un gobie.
+208	[Récolte] Mission d'approvisionnement de guilde	[360] Récupérer du bois d'œuvre de bouleau.
+209	[Récolte] Mission d'approvisionnement de guilde	[360] Récupérer du bois d'œuvre d'érable.
+210	[Récolte] Mission d'approvisionnement de guilde	[360] Récupérer du bois d'œuvre de sapin.
+211	[Récolte] Mission d'approvisionnement de guilde	[360] Récupérer du bois d'œuvre de cèdre.
+214	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre de sapin, Récupérer du bois d'œuvre de bouleau.
+215	[Récolte] Mission d'approvisionnement de guilde	[180] Récupérer du bois d'œuvre d'érable, Récupérer du bois d'œuvre de bouleau.
+234	[Récolte] Mission d'approvisionnement de guilde	[4] Attraper une gorette.
+252	[Récolte] Mission d'approvisionnement de guilde	[180] Récolter du bois d'œuvre de palmier, récolter du bois d'œuvre de sureau.
+253	[Récolte] Mission d'approvisionnement de guilde	[360] Récolter de la peau de cactus.
+216	[Récolte] Mission d'approvisionnement de guilde	[800] Récupérer des pierres brutes, Récupérer des pierres polies.
+217	[Récolte] Mission d'approvisionnement de guilde	[900] Récupérer des rondins, Transformer du bois équarri utilisable.
+218	[Récolte] Mission d'approvisionnement de guilde	[900] Récupérer des rondins, Transformer du contreplaqué de pin, Transformer du contreplaqué de sapin.
+219	[Récolte] Mission d'approvisionnement de guilde	[30] Attraper un espadon.
+220	[Récolte] Mission d'approvisionnement de guilde	[1000] Récupérer des pierres brutes.
+235	[Récolte] Mission d'approvisionnement de guilde	[6] Attraper une gorette.
+221	[Récolte] Mission d'approvisionnement de guilde	[1000] Récupérer des pierres brutes, Récupérer des pierres polies.
+222	[Récolte] Mission d'approvisionnement de guilde	[60] Attraper un hareng.
+223	[Récolte] Mission d'approvisionnement de guilde	[1200] Récupérer des rondins, Transformer du contreplaqué solide de pin, Transformer du contreplaqué solide de sapin.
+224	[Récolte] Mission d'approvisionnement de guilde	[1300] Récupérer des rondins.
+225	[Récolte] Mission d'approvisionnement de guilde	[1200] Récupérer des pierres brutes.
+236	[Récolte] Mission d'approvisionnement de guilde	[8] Attraper une gorette.
+226	[Récolte] Mission d'approvisionnement de guilde	[1400] Récupérer des pierres brutes, Transformer des pierres polies.
+227	[Récolte] Mission d'approvisionnement de guilde	[1600] Récupérer des rondins, Transformer du bois équarri utilisable.
+228	[Récolte] Mission d'approvisionnement de guilde	[10] Attraper un chromis fumé.
+229	[Récolte] Mission d'approvisionnement de guilde	[1800] Récupérer des rondins.
+230	[Récolte] Mission d'approvisionnement de guilde	[1600] Récupérer des pierres brutes.
+237	[Récolte] Mission d'approvisionnement de guilde	[10] Attraper une gorette.
+254	[Récolte] Mission d'approvisionnement de guilde	[35] Attraper un maquereau.
+255	[Récolte] Mission d'approvisionnement de guilde	[70] Attraper un poisson-globe;
+256	[Récolte] Mission d'approvisionnement de guilde	[10] Attraper un chromis fumé.
+257	[Récolte] Mission d'approvisionnement de guilde	[150] Attraper un hareng, Attraper un pagre.
+429	[Soumission] Protéger les villageois	[1000] Tuer les géants du poste des géants originels de Keplan ;
+469	[Soumission] Protéger les villageois	[1000] Tuer les géants du poste des géants originels de Keplan ;
+430	[Soumission] Protéger les villageois	[800] Tuer les tréants de Calpheon Sud-Ouest ;
+470	[Soumission] Protéger les villageois	[800] Tuer les tréants de Calpheon Sud-Ouest ;
+431	[Soumission] Protéger les villageois	[20] Tuer le cyclope ;
+471	[Soumission] Protéger les villageois	[20] Tuer le cyclope ;
+432	[Soumission] Protéger les villageois	[800] Tuer les squelettes du sanctuaire d'Hexe ;
+433	[Soumission] Protéger les villageois	[1000] Tuer les manshas de Calpheon Sud-Ouest ;
+434	[Soumission] Protéger les villageois	[1000] Tuer les rhutums de Calpheon Sud-Ouest ;
+472	[Soumission] Protéger les villageois	[1000] Tuer les rhutums de Calpheon Sud-Ouest ;
+435	[Soumission] Protéger les villageois	[700] Tuer le troupeau du sanctuaire de Calpheon ;
+436	[Soumission] Protéger les villageois	[1200] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+473	[Soumission] Protéger les villageois	[1200] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+437	[Soumission] Protéger les villageois	[1200] Tuer les helms de Mediah ;
+438	[Soumission] Protéger les villageois	[800] Tuer les sausans de Mediah ;
+439	[Soumission] Protéger les villageois	[1000] Tuer les fidèles du monastère d'Elric de Mediah ;
+440	[Soumission] Protéger les villageois	[1200] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+474	[Soumission] Protéger les villageois	[1200] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+401	[Soumission] Protéger les villageois	[2500] Tuer les géants du poste des géants originels de Keplan ;
+475	[Soumission] Protéger les villageois	[2500] Tuer les géants du poste des géants originels de Keplan ;
+402	[Soumission] Protéger les villageois	[2000] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+476	[Soumission] Protéger les villageois	[2000] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+403	[Soumission] Protéger les villageois	[40] Tuer le cyclope ;
+477	[Soumission] Protéger les villageois	[40] Tuer le cyclope ;
+404	[Soumission] Protéger les villageois	[1800] Tuer les squelettes du sanctuaire d'Hexe ;
+405	[Soumission] Protéger les villageois	[2500] Tuer les manshas de Calpheon Sud-Ouest ;
+421	[Soumission] Protéger les villageois	[2500] Tuer les rhutums de Calpheon Sud-Ouest ;
+478	[Soumission] Protéger les villageois	[2500] Tuer les rhutums de Calpheon Sud-Ouest ;
+425	[Soumission] Protéger les villageois	[1500] Tuer le troupeau du sanctuaire de Calpheon ;
+441	[Soumission] Protéger les villageois	[2000] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+479	[Soumission] Protéger les villageois	[2000] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+442	[Soumission] Protéger les villageois	[2000] Tuer les helms de Mediah ;
+443	[Soumission] Protéger les villageois	[1800] Tuer les sausans de Mediah ;
+444	[Soumission] Protéger les villageois	[2200] Tuer les fidèles du monastère d'Elric de Mediah ;
+445	[Soumission] Protéger les villageois	[2200] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+480	[Soumission] Protéger les villageois	[2200] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+527	[Soumission] Protéger les villageois	[2200] Vaincre des manes à Mediah ;
+463	[Soumission] Protéger les villageois	[1500] Kill the Valencia Centaurs;
+464	[Soumission] Protéger les villageois	[1500] Kill the Valencia Basilisks;
+499	[Soumission] Protéger les villageois	[1800] Vaincre des bashims de Valencia ;
+500	[Soumission] Protéger les villageois	[1800] Vaincre des cultistes de Cadry à Valencia ;
+501	[Soumission] Protéger les villageois	[1800] Vaincre des waragons à Valencia ;
+502	[Soumission] Protéger les villageois	[1800] Vaincre des fogans du désert à Valencia ;
+503	[Soumission] Protéger les villageois	[1800] Vaincre des cultistes du croissant à Valencia ;
+504	[Soumission] Protéger les villageois	[1800] Vaincre des nagas du désert à Valencia ;
+505	[Soumission] Protéger les villageois	[1800] Vaincre des bandits de Gahaz à Valencia ;
+406	[Soumission] Protéger les villageois	[4000] Tuer les géants du poste des géants originels de Keplan ;
+481	[Soumission] Protéger les villageois	[4000] Tuer les géants du poste des géants originels de Keplan ;
+407	[Soumission] Protéger les villageois	[3200] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+482	[Soumission] Protéger les villageois	[3200] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+408	[Soumission] Protéger les villageois	[65] Tuer le cyclope ;
+483	[Soumission] Protéger les villageois	[65] Tuer le cyclope ;
+409	[Soumission] Protéger les villageois	[2800] Tuer les squelettes du sanctuaire d'Hexe ;
+410	[Soumission] Protéger les villageois	[4000] Tuer les manshas de Calpheon Sud-Ouest ;
+422	[Soumission] Protéger les villageois	[4000] Tuer les rhutums de Calpheon Sud-Ouest ;
+484	[Soumission] Protéger les villageois	[4000] Tuer les rhutums de Calpheon Sud-Ouest ;
+426	[Soumission] Protéger les villageois	[2500] Tuer le troupeau du sanctuaire de Calpheon ;
+446	[Soumission] Protéger les villageois	[3200] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+485	[Soumission] Protéger les villageois	[3200] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+447	[Soumission] Protéger les villageois	[3200] Tuer les helms de Mediah ;
+448	[Soumission] Protéger les villageois	[2300] Tuer les sausans de Mediah ;
+449	[Soumission] Protéger les villageois	[2900] Tuer les fidèles du monastère d'Elric de Mediah ;
+450	[Soumission] Protéger les villageois	[3000] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+486	[Soumission] Protéger les villageois	[3000] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+528	[Soumission] Protéger les villageois	[3000] Vaincre des manes à Mediah ;
+465	[Soumission] Protéger les villageois	[2000] Kill the Valencia Centaurs;
+466	[Soumission] Protéger les villageois	[2000] Kill the Valencia Basilisks;
+506	[Soumission] Protéger les villageois	[2500] Vaincre des bashims de Valencia ;
+507	[Soumission] Protéger les villageois	[2500] Vaincre des cultistes de Cadry à Valencia ;
+508	[Soumission] Protéger les villageois	[2500] Vaincre des waragons à Valencia ;
+509	[Soumission] Protéger les villageois	[2500] Vaincre des fogans du désert à Valencia ;
+510	[Soumission] Protéger les villageois	[2500] Vaincre des cultistes du croissant à Valencia ;
+511	[Soumission] Protéger les villageois	[2500] Vaincre des nagas du désert à Valencia ;
+512	[Soumission] Protéger les villageois	[2500] Vaincre des bandits de Gahaz à Valencia ;
+411	[Soumission] Protéger les villageois	[5500] Tuer les géants du poste des géants originels de Keplan ;
+487	[Soumission] Protéger les villageois	[5500] Tuer les géants du poste des géants originels de Keplan ;
+412	[Soumission] Protéger les villageois	[4800] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+488	[Soumission] Protéger les villageois	[4800] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+413	[Soumission] Protéger les villageois	[100] Tuer le cyclope ;
+489	[Soumission] Protéger les villageois	[100] Tuer le cyclope ;
+414	[Soumission] Protéger les villageois	[4000] Tuer les squelettes du sanctuaire d'Hexe ;
+415	[Soumission] Protéger les villageois	[5500] Tuer les manshas de Calpheon Sud-Ouest ;
+423	[Soumission] Protéger les villageois	[5500] Tuer les rhutums de Calpheon Sud-Ouest ;
+490	[Soumission] Protéger les villageois	[5500] Tuer les rhutums de Calpheon Sud-Ouest ;
+427	[Soumission] Protéger les villageois	[3700] Tuer le troupeau du sanctuaire de Calpheon ;
+451	[Soumission] Protéger les villageois	[4800] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+491	[Soumission] Protéger les villageois	[4800] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+452	[Soumission] Protéger les villageois	[4200] Tuer les helms de Mediah ;
+453	[Soumission] Protéger les villageois	[3300] Tuer les sausans de Mediah ;
+454	[Soumission] Protéger les villageois	[4200] Tuer les fidèles du monastère d'Elric de Mediah ;
+455	[Soumission] Protéger les villageois	[4800] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+492	[Soumission] Protéger les villageois	[4800] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+529	[Soumission] Protéger les villageois	[4800] Vaincre des manes à Mediah ;
+467	[Soumission] Protéger les villageois	[2800] Kill the Valencia Centaurs;
+468	[Soumission] Protéger les villageois	[2800] Kill the Valencia Basilisks;
+513	[Soumission] Protéger les villageois	[3500] Vaincre des bashims de Valencia ;
+514	[Soumission] Protéger les villageois	[3500] Vaincre des cultistes de Cadry à Valencia ;
+515	[Soumission] Protéger les villageois	[3500] Vaincre des waragons à Valencia ;
+516	[Soumission] Protéger les villageois	[3500] Vaincre des fogans du désert à Valencia ;
+517	[Soumission] Protéger les villageois	[3500] Vaincre des cultistes du croissant à Valencia ;
+518	[Soumission] Protéger les villageois	[3500] Vaincre des nagas du désert à Valencia ;
+519	[Soumission] Protéger les villageois	[3500] Vaincre des bandits de Gahaz à Valencia ;
+416	[Soumission] Protéger les villageois	[7000] Tuer les géants du poste des géants originels de Keplan ;
+493	[Soumission] Protéger les villageois	[7000] Tuer les géants du poste des géants originels de Keplan ;
+417	[Soumission] Protéger les villageois	[6500] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+494	[Soumission] Protéger les villageois	[6500] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
+418	[Soumission] Protéger les villageois	[150] Tuer le cyclope ;
+495	[Soumission] Protéger les villageois	[150] Tuer le cyclope ;
+419	[Soumission] Protéger les villageois	[5000] Tuer les squelettes du sanctuaire d'Hexe ;
+420	[Soumission] Protéger les villageois	[7000] Tuer les manshas de Calpheon Sud-Ouest ;
+424	[Soumission] Protéger les villageois	[7000] Tuer les rhutums de Calpheon Sud-Ouest ;
+496	[Soumission] Protéger les villageois	[7000] Tuer les rhutums de Calpheon Sud-Ouest ;
+428	[Soumission] Protéger les villageois	[4500] Tuer le troupeau du sanctuaire de Calpheon ;
+456	[Soumission] Protéger les villageois	[6800] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+497	[Soumission] Protéger les villageois	[6800] Tuer les barbares de la mine de fer abandonnée de Mediah ;
+457	[Soumission] Protéger les villageois	[6300] Tuer les helms de Mediah ;
+458	[Soumission] Protéger les villageois	[5600] Tuer les sausans de Mediah ;
+459	[Soumission] Protéger les villageois	[5200] Tuer les fidèles du monastère d'Elric de Mediah ;
+460	[Soumission] Protéger les villageois	[6100] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+498	[Soumission] Protéger les villageois	[6100] Tuer les bandits errants du repaire des bandits errants de Mediah ;
+530	[Soumission] Protéger les villageois	[6100] Vaincre des manes à Mediah ;
+461	[Soumission] Protéger les villageois	[3800] Kill the Valencia Centaurs;
+462	[Soumission] Protéger les villageois	[3800] Kill the Valencia Basilisks;
+520	[Soumission] Protéger les villageois	[4500] Vaincre des bashims de Valencia ;
+521	[Soumission] Protéger les villageois	[4500] Vaincre des cultistes de Cadry à Valencia ;
+522	[Soumission] Protéger les villageois	[4500] Vaincre des waragons à Valencia ;
+523	[Soumission] Protéger les villageois	[4500] Vaincre des fogans du désert à Valencia ;
+524	[Soumission] Protéger les villageois	[4500] Vaincre des cultistes du croissant à Valencia ;
+525	[Soumission] Protéger les villageois	[4500] Vaincre des nagas du désert à Valencia ;
+526	[Soumission] Protéger les villageois	[4500] Vaincre des bandits de Gahaz à Valencia ;
+1001	[Soumission de boss] Assaut à la Tombe du soldat	[750] Tuer les squelettes frénétiques à la Tombe du soldat ;
+1002	[Soumission de boss] Assaut à la mine de fer abandonnée	[600] Tuer les barbares de la mine de fer abandonnée ;
+580	[Soumission de boss] Élimination de ferrids	[280] Tuer les ferrids de la grotte de lave d'Omar ;
+581	[Soumission de boss] Élimination de manes	[300] Tuer les manes de la planque des manes ;
+1005	[Soumission de boss] Élimination aux ruines anciennes d'Hasrah	[750] Détruire les armes antiques des anciennes ruines de Hasrah ;
+1006	[Soumission de boss] Élimination à la garnison des sausans	[600] Tuer les sausans de la garnison des sausans ;
+582	[Soumission de boss] Élimination au repaire des bandits errants	[300] Tuer les bandits errants du repaire des bandits errants ;
+583	[Soumission de boss] Élimination au 2e laboratoire de Marni	[250] Tuer les cobayes mutants du 2e laboratoire de Marni ;
+1009	[Soumission de boss] Assaut à la Tombe du soldat	[750] Tuer les squelettes frénétiques à la Tombe du soldat ;
+1010	[Soumission de boss] Assaut à la mine de fer abandonnée	[600] Tuer les barbares de la mine de fer abandonnée ;
+584	[Soumission de boss] Élimination de ferrids	[280] Tuer les ferrids de la grotte de lave d'Omar ;
+585	[Soumission de boss] Élimination de manes	[300] Tuer les manes de la planque des manes ;
+1013	[Soumission de boss] Élimination aux ruines anciennes d'Hasrah	[750] Détruire les armes antiques des anciennes ruines de Hasrah ;
+1014	[Soumission de boss] Élimination à la garnison des sausans	[600] Tuer les sausans de la garnison des sausans ;
+586	[Soumission de boss] Élimination au repaire des bandits errants	[300] Tuer les bandits errants du repaire des bandits errants ;
+587	[Soumission de boss] Élimination au 2e laboratoire de Marni	[250] Tuer les cobayes mutants du 2e laboratoire de Marni ;
+1017	[Soumission de boss] Assaut à la Tombe du soldat	[750] Tuer les squelettes frénétiques à la Tombe du soldat ;
+1018	[Soumission de boss] Assaut à la mine de fer abandonnée	[600] Tuer les barbares de la mine de fer abandonnée ;
+588	[Soumission de boss] Élimination de ferrids	[280] Tuer les ferrids de la grotte de lave d'Omar ;
+589	[Soumission de boss] Élimination de manes	[300] Tuer les manes de la planque des manes ;
+1021	[Soumission de boss] Élimination aux ruines anciennes d'Hasrah	[750] Détruire les armes antiques des anciennes ruines de Hasrah ;
+1022	[Soumission de boss] Élimination à la garnison des sausans	[600] Tuer les sausans de la garnison des sausans ;
+590	[Soumission de boss] Élimination au repaire des bandits errants	[300] Tuer les bandits errants du repaire des bandits errants ;
+591	[Soumission de boss] Élimination au 2e laboratoire de Marni	[250] Tuer les cobayes mutants du 2e laboratoire de Marni ;

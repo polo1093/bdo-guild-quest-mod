@@ -1,0 +1,232 @@
+^GuildQuestNo	~Title	~Desc
+1	Deliver To: Heidel, Heidel, Velia	Deliver Home Medicine Brewer to Lara in Heidel, Tree Spirit Seed to Lebyos in Heidel, Iliya Salt Pot to David Finto in Velia.
+2	Deliver To: Calpheon, Calpheon, Florin	Deliver Wishing Kite to Rubin in Calpheon, Freharau’s Dry Mud to Kaia Feresio in Calpheon, Shai Traditional Hat to Izella in Florin.
+3	Deliver To: Calpheon, Heidel, Keplan	Deliver Bartali"s Odd Adventure to Balker Batian in Calpheon, Fresh Fogan Egg to Melissa Brady in Heidel, Heidel Knights Martial Arts Manual to Lilvanos in Keplan.
+4	Deliver To: Heidel, Keplan, Calpheon	Deliver Olvia Grape Jam to Amerigo in Heidel, Ogre Excrement to Lilvanos in Keplan, Velia Wine to Fredelles Herba in Calpheon.
+5	Deliver To: Heidel, Calpheon	Deliver Iliya Salt Pot to Olivia in Heidel, Heidel Knights Martial Arts Manual to Psebor in Calpheon.
+6	Deliver To: Calpheon, Western Guard Camp	Deliver Freharau’s Dry Mud to Gabril in Calpheon, Heidel First Aid Kit to Hessenvale at the Western Guard Camp.
+7	Deliver To: Western Guard Camp, Glish, Florin	Deliver Heidel First Aid Kit to Feinia at the Western Guard Camp, Imp"s Red Ore to Kardash in Glish, Shai Traditional Hat to Herar in Florin.
+8	Deliver To: Florin, Calpheon, Glish	Deliver Home Medicine Brewer to Izella in Florin, Love Potion No. 6 to Geoffrey Erne in Calpheon, Imp"s Red Ore to Kardash in Glish.
+9	Deliver To: Glish, Keplan, Calpheon	Deliver Bartali"s Odd Adventure to Amaranto in Glish, Lebyos" Leather Shoes to Laniero Lucci in Keplan, Glish Mud Brick to Angela in Calpheon.
+10	Deliver To: Calpheon, Calpheon, Keplan	Deliver Fogan Crescent Spear to Ronatz in Calpheon, Iliya Salt Pot to Fredelles Herba in Calpheon, Velian Crystal Glass to Irellio Lucci in Keplan.
+11	Deliver To: Glish, Florin, Keplan	Deliver Velian Crystal Glass to Seilane in Glish, Shai Traditional Hat to Stella in Florin, Lebyos" Leather Shoes to Christine Cessory in Keplan.
+12	Deliver To: Trent, Epheria, Keplan	Deliver Fox Fur to the Spotty Troll in Trent, Bartali"s Odd Adventure to Phyria in Epheria, Ogre Excrement to Lilvanos in Keplan.
+13	Deliver To: Calpheon, Keplan, Heidel	Deliver Emergency Medicine Set to Alchem in Calpheon, Imp"s Red Ore to Irellio Lucci in Keplan, Iliya Salt Pot to Olivia in Heidel.
+14	Deliver To: Calpheon, Calpheon, Iliya Island, Keplan	Deliver Lucky Fish Statue to Ahr in Calpheon, Dragon Statue of Oyun to Lilvayne in Calpheon, Freharau’s Dry Mud to Baori on Iliya Island, Fogan Crescent Spear to Andria in Keplan.
+15	Deliver To: Heidel, Velia, Trent, Calpheon	Deliver Teviral Scented Candle to Ornella in Heidel, Calpheon Slum Aid to Ottavio Ferre in Velia, Fogan Skin Oil to Bevel in Trent, Madame Pillaf"s Ribbon Set to Lavientia Batian in Calpheon.
+16	Deliver To: Calpheon, Trent, Keplan, Iliya Island	Deliver Alchemist"s Red Reagent to Geranoa in Calpheon, Fox Fur to the Spotted Troll in Trent, Pure Iron Ore to Shurd in Keplan, Dried Fogan Hind Leg to Baori on Iliya Island.
+17	Deliver To: Epheria, Velia, Heidel, Glish	Deliver Emperor’s Portrait to Philaberto Falasi in Epheria, Aurobyl Fabric to Zaaira in Velia, Pack of Old Books to Enrico Mancini in Heidel, Iliya Salt Pot to Deborah in Glish.
+18	Deliver To: Epheria, Velia, Heidel, Calpheon	Deliver Chimera"s Black Fragment to Srulk in Epheria, Teviral Scented Candle to Eileen in Velia, Spirit of Earth Sculpture to Ornella in Heidel, Velian Crystal Glass to Bianstimi in Calpheon.
+19	Deliver To: Trent, Epheria, Iliya Island, Calpheon	Deliver Fogan Skin Oil to Mayeri in Trent, Fresh Fogan Egg to Phyria in Epheria, Wishing Kite to Lillia on Iliya Island, Fogan Crescent Spear to Ronatz in Calpheon.
+20	Deliver To: Florin, Keplan, Trent, Velia	Deliver Magic Binding Oak Branch to Stella in Florin, Bush Spider Poison Sac to Laniero Lucci in Keplan, Iliya Salt Pot to Augusta in Trent, Teviral Scented Candle to Clorince in Velia.
+21	Deliver To: Heidel, Iliya Island, Glish, Keplan	Deliver Valkyrie Painkiller to Isobelle Encarotia in Heidel, Valentine Salve to Baori on Iliya Island, Pearl Necklace to Amaranto in Glish, Pure Iron Ore to Andria in Keplan.
+22	Deliver To: Keplan, Calpheon, Trent, Calpheon	Deliver Spider Web Vest to Shurd in Keplan, Olvia Mountain Cheese to Fredelles Herba in Calpheon, Velian Plank to Mayeri in Trent, Lucky Fish Statue to Ario in Calpheon.
+23	Deliver To: Keplan, Iliya Island, Heidel, Glish	Deliver Poisoned Arrowhead to Lilvanos in Keplan, Pallet Moving Set to Baori on Iliya Island, Pack of Old Books to Enrico Mancini in Heidel, Nymph Costume Set to Kanna in Glish.
+24	Deliver To: Calpheon, Trent, Heidel, Glish	Deliver Confiscated Naga Weapon to Psebor in Calpheon, Lebyos" Leather Shoes to the Spotty Troll in Trent, Packaged Pig Barbecue to Olivia in Heidel, Fish Sausage to Deborah in Glish.
+25	Deliver To: Epheria, Keplan, Trent, Calpheon	Deliver Dragon Statue of Oyun to Srulk in Epheria, Fresh Fogan Egg to Lilvanos in Keplan, Cutting-Edge Dwarf Tool Pack to Mayeri in Trent, Black Marsh Peat to Grandus in Calpheon.
+238	Gather Rough Stone	Gather 350 Rough Stone.
+239	Gather Logs	Gather 400 Logs.
+240	Gather Iron Ore	Gather 150 Iron Ore.
+241	Gather Ash Timber	Gather 180 Ash Timber.
+242	Gather Pine Timber	Gather 180 Pine Timber.
+243	Gather Rough Opal, Process Melted Iron Shards	Gather 5 Rough Opal or Process Melted Iron Shards.
+244	Fish Mudskipper	Fish 50 Mudskipper.
+245	Gather Birch Timber	Gather 180 Birch Timber.
+246	Gather Maple Timber	Gather 180 Maple Timber.
+247	Gather Fir Timber	Gather 180 Fir Timber.
+248	Gather Cedar Timber	Gather 180 Cedar Timber.
+249	Gather Fir Timber, Birch Timber	Gather 90 Fir Timber or Birch Timber.
+250	Gather Maple Timber, Birch Timber	Gather 90 Maple Timber or Birch Timber.
+251	Fish Grunt	Fish 2 Grunt.
+201	Gather Rough Stone	Gather 700 Rough Stone.
+202	Gather Logs	Gather 800 Logs.
+203	Gather Iron Ore	Gather 300 Iron Ore.
+204	Gather Ash Timber	Gather 360 Ash Timber.
+205	Gather Pine Timber	Gather 360 Pine Timber.
+206	Gather Rough Opal, Process Melted Iron Shards	Gather 8 Rough Opal or Process Melted Iron Shards.
+207	Fish Mudskipper	Fish 100 Mudskipper.
+208	Gather Birch Timber	Gather 360 Birch Timber.
+209	Gather Maple Timber	Gather 360 Maple Timber.
+210	Gather Fir Timber	Gather 360 Fir Timber.
+211	Gather Cedar Timber	Gather 360 Cedar Timber.
+214	Gather Fir Timber, Birch Timber	Gather 180 Fir Timber or Birch Timber.
+215	Gather Maple Timber, Birch Timber	Gather 180 Maple Timber or Birch Timber.
+234	Fish Grunt	Fish 4 Grunt.
+252	Gather Palm Timber, Elder Tree Timber	Gather 180 Palm Timber or Elder Tree Timber.
+253	Gather Cactus Skin	Gather 360 Cactus Skin.
+216	Gather Rough Stones, Process Polished Stone	Gather 800 Rough Stones or Process Polished Stone.
+217	Gather Logs, Process Usable Scantlings	Gather 900 Logs or Process Usable Scantlings.
+218	Gather Logs, Process Pine Plywood, Process Fir Plywood	Gather 900 Logs or Process Pine Plywood or Process Fir Plywood.
+219	Fish Swordfish	Fish 30 Swordfish.
+220	Gather Rough Stones	Gather 1000 Rough Stones.
+235	Fish Grunt	Fish 6 Grunt.
+221	Gather Rough Stones, Process Polished Stone	Gather 1000 Rough Stones or Process Polished Stone.
+222	Fish Herring	Fish 60 Herring.
+223	Gather Logs, Process Sturdy Pine Plywood, Process Sturdy Fir Plywood	Gather 1200 Logs or Process Sturdy Pine Plywood or Process Sturdy Fir Plywood.
+224	Gather Logs	Gather 1300 Logs.
+225	Gather Rough Stones	Gather 1200 Rough Stones.
+236	Fish Grunt	Fish 8 Grunt.
+226	Gather Rough Stones, Process Polished Stones	Gather 1400 Rough Stones or Process Polished Stones.
+227	Gather Logs, Process Usable Scantlings	Gather 1600 Logs or Process Usable Scantlings.
+228	Fish Porgy	Fish 10 Porgy.
+229	Gather Logs	Gather 1800 Logs.
+230	Gather 1Rough Stones	Gather 1600 Rough Stones.
+237	Fish Grunt	Fish 10 Grunt.
+254	Fish Mackerel	Fish 35 Mackerel.
+255	Fish Swellfish	Fish 70 Swellfish.
+256	Fish Smokey Chromis	Fish 10 Smokey Chromis.
+257	Fish Herring, Porgy	Fish 150 Herring or Porgy.
+429	Kill Giants	Kill 1000 Giants at the Keplan Primal Giant Post.
+469	Kill Giants	Kill 1000 Giants at the Keplan Primal Giant Post.
+430	Kill Treants	Kill 800 Treants in Southwestern Calpheon.
+470	Kill Treants	Kill 800 Treants in Southwestern Calpheon.
+431	Kill Cyclops	Kill 20 Cyclops.
+471	Kill Cyclops	Kill 20 Cyclops.
+432	Kill Skeletons	Kill 800 Skeletons in Hexe Sanctuary.
+433	Kill Manshas	Kill 1000 Manshas in Southwestern Calpheon.
+434	Kill Rhutums	Kill 1000 Rhutums in Southwestern Calpheon.
+472	Kill Rhutums	Kill 1000 Rhutums in Southwestern Calpheon.
+435	Kill Calpheon Shrine Herd	Kill 700 Calpheon Shrine Herd.
+436	Kill Barbarians	Kill 1200 Barbarians in the Mediah Abandoned Iron Mine.
+473	Kill Barbarians	Kill 1200 Barbarians in the Mediah Abandoned Iron Mine.
+437	Kill Mediah Helms	Kill 1200 Mediah Helms.
+438	Kill Mediah Sausans	Kill 800 Mediah Sausans.
+439	Kill Followers	Kill 1000 Followers at the Mediah Elric Monastery.
+440	Kill Wandering Rogues	Kill 1200 Wandering Rogues at the Mediah Wandering Rogue Den.
+474	Kill Wandering Rogues	Kill 1200 Wandering Rogues at the Mediah Wandering Rogue Den.
+401	Kill Giants	Kill 2500 Giants at the Keplan Primal Giant Post.
+475	Kill Giants	Kill 2500 Giants at the Keplan Primal Giant Post.
+402	Kill Tree Spirits	Kill 2000 Tree Spirits in Southwestern Calpheon.
+476	Kill Tree Spirits	Kill 2000 Tree Spirits in Southwestern Calpheon.
+403	Kill Cyclops	Kill 40 Cyclops.
+477	Kill Cyclops	Kill 40 Cyclops.
+404	Kill Skeletons	Kill 1800 Skeletons in Hexe Sanctuary.
+405	Kill Manshas	Kill 2500 Manshas in Southwestern Calpheon.
+421	Kill Rhutums	Kill 2500 Rhutums in Southwestern Calpheon.
+478	Kill Rhutums	Kill 2500 Rhutums in Southwestern Calpheon.
+425	Kill Calpheon Shrine Herd	Kill 1500 Calpheon Shrine Herd.
+441	Kill Barbarians	Kill 2000 Barbarians in the Mediah Abandoned Iron Mine.
+479	Kill Barbarians	Kill 2000 Barbarians in the Mediah Abandoned Iron Mine.
+442	Kill Mediah Helms	Kill 2000 Mediah Helms.
+443	Kill Mediah Sausans	Kill 1800 Mediah Sausans.
+444	Kill Followers	Kill 2200 Followers at the Mediah Elric Monastery.
+445	Kill Wandering Rogues	Kill 2200 Wandering Rogues at the Mediah Wandering Rogue Den.
+480	Kill Wandering Rogues	Kill 2200 Wandering Rogues at the Mediah Wandering Rogue Den.
+527	Kill Manes in Mediah	Kill 2200 Manes in Mediah.
+463	Kill Valencia Centaurs	Kill 1500 Valencia Centaurs.
+464	Kill Valencia Basilisks	Kill 1500 Valencia Basilisks.
+499	Kill Valencian Bashims	Kill 1800 Valencian Bashims.
+500	Kill Cadry Cultists	Kill 1800 Cadry Cultists in Valencia.
+501	Kill Waragons	Kill 1800 Waragons in Valencia.
+502	Kill Desert Fogans	Kill 1800 Desert Fogans in Valencia.
+503	Kill Crescent Cultists	Kill 1800 Crescent Cultists in Valencia.
+504	Kill Desert Naga	Kill 1800 Desert Naga in Valencia.
+505	Kill Gahaz Bandits	Kill 1800 Gahaz Bandits in Valencia.
+406	Kill Giants	Kill 4000 Giants at the Keplan Primal Giant Post.
+481	Kill Giants	Kill 4000 Giants at the Keplan Primal Giant Post.
+407	Kill Tree Spirits	Kill 3200 Tree Spirits in Southwestern Calpheon.
+482	Kill Tree Spirits	Kill 3200 Tree Spirits in Southwestern Calpheon.
+408	Kill Cyclops	Kill 65 Cyclops.
+483	Kill Cyclops	Kill 65 Cyclops.
+409	Kill Skeletons	Kill 2800 Skeletons in Hexe Sanctuary.
+410	Kill Manshas	Kill 4000 Manshas in Southwestern Calpheon.
+422	Kill Rhutums	Kill 4000 Rhutums in Southwestern Calpheon.
+484	Kill Rhutums	Kill 4000 Rhutums in Southwestern Calpheon.
+426	Kill Calpheon Shrine Herd	Kill 2500 Calpheon Shrine Herd.
+446	Kill Barbarians	Kill 3200 Barbarians in the Mediah Abandoned Iron Mine.
+485	Kill Barbarians	Kill 3200 Barbarians in the Mediah Abandoned Iron Mine.
+447	Kill Mediah Helms	Kill 3200 Mediah Helms.
+448	Kill Mediah Sausans	Kill 2300 Mediah Sausans.
+449	Kill Followers	Kill 2900 Followers at the Mediah Elric Monastery.
+450	Kill Wandering Rogues	Kill 3000 Wandering Rogues at the Mediah Wandering Rogue Den.
+486	Kill Wandering Rogues	Kill 3000 Wandering Rogues at the Mediah Wandering Rogue Den.
+528	Kill Manes in Mediah	Kill 3000 Manes in Mediah.
+465	Kill Valencia Centaurs	Kill 2000 Valencia Centaurs.
+466	Kill Valencia Basilisks	Kill 2000 Valencia Basilisks.
+506	Kill Valencian Bashims	Kill 2500 Valencian Bashims.
+507	Kill Cadry Cultists	Kill 2500 Cadry Cultists in Valencia.
+508	Kill Waragons	Kill 2500 Waragons in Valencia.
+509	Kill Desert Fogans	Kill 2500 Desert Fogans in Valencia.
+510	Kill Crescent Cultists	Kill 2500 Crescent Cultists in Valencia.
+511	Kill Desert Naga	Kill 2500 Desert Naga in Valencia.
+512	Kill Gahaz Bandits	Kill 2500 Gahaz Bandits in Valencia.
+411	Kill Giants	Kill 5500 Giants at the Keplan Primal Giant Post.
+487	Kill Giants	Kill 5500 Giants at the Keplan Primal Giant Post.
+412	Kill Tree Spirits	Kill 4800 Tree Spirits in Southwestern Calpheon.
+488	Kill Tree Spirits	Kill 4800 Tree Spirits in Southwestern Calpheon.
+413	Kill Cyclops	Kill 100 Cyclops.
+489	Kill Cyclops	Kill 100 Cyclops.
+414	Kill Skeletons	Kill 4000 Skeletons in Hexe Sanctuary.
+415	Kill Manshas	Kill 5500 Manshas in Southwestern Calpheon.
+423	Kill Rhutums	Kill 5500 Rhutums in Southwestern Calpheon.
+490	Kill Rhutums	Kill 5500 Rhutums in Southwestern Calpheon.
+427	Kill Calpheon Shrine Herd	Kill 3700 Calpheon Shrine Herd.
+451	Kill Barbarians	Kill 4800 Barbarians in the Mediah Abandoned Iron Mine.
+491	Kill Barbarians	Kill 4800 Barbarians in the Mediah Abandoned Iron Mine.
+452	Kill Mediah Helms	Kill 4200 Mediah Helms.
+453	Kill Mediah Sausans	Kill 3300 Mediah Sausans.
+454	Kill Followers	Kill 4200 Followers at the Mediah Elric Monastery.
+455	Kill Wandering Rogues	Kill 4800 Wandering Rogues at the Mediah Wandering Rogue Den.
+492	Kill Wandering Rogues	Kill 4800 Wandering Rogues at the Mediah Wandering Rogue Den.
+529	Kill Manes in Mediah	Kill 4800 Manes in Mediah.
+467	Kill Valencia Centaurs	Kill 2800 Valencia Centaurs.
+468	Kill Valencia Basilisks	Kill 2800 Valencia Basilisks.
+513	Kill Valencian Bashims	Kill 3500 Valencian Bashims.
+514	Kill Cadry Cultists	Kill 3500 Cadry Cultists in Valencia.
+515	Kill Waragons	Kill 3500 Waragons in Valencia.
+516	Kill Desert Fogans	Kill 3500 Desert Fogans in Valencia.
+517	Kill Crescent Cultists	Kill 3500 Crescent Cultists in Valencia.
+518	Kill Desert Naga	Kill 3500 Desert Naga in Valencia.
+519	Kill Gahaz Bandits	Kill 3500 Gahaz Bandits in Valencia.
+416	Kill Giants	Kill 7000 Giants at the Keplan Primal Giant Post.
+493	Kill Giants	Kill 7000 Giants at the Keplan Primal Giant Post.
+417	Kill Tree Spirits	Kill 6500 Tree Spirits in Southwestern Calpheon.
+494	Kill Tree Spirits	Kill 6500 Tree Spirits in Southwestern Calpheon.
+418	Kill Cyclops	Kill 150 Cyclops.
+495	Kill Cyclops	Kill 150 Cyclops.
+419	Kill Skeletons	Kill 5000 Skeletons in Hexe Sanctuary.
+420	Kill Manshas	Kill 7000 Manshas in Southwestern Calpheon.
+424	Kill Rhutums	Kill 7000 Rhutums in Southwestern Calpheon.
+496	Kill Rhutums	Kill 7000 Rhutums in Southwestern Calpheon.
+428	Kill Calpheon Shrine Herd	Kill 4500 Calpheon Shrine Herd.
+456	Kill Barbarians	Kill 6800 Barbarians in the Mediah Abandoned Iron Mine.
+497	Kill Barbarians	Kill 6800 Barbarians in the Mediah Abandoned Iron Mine.
+457	Kill Mediah Helms	Kill 6300 Mediah Helms.
+458	Kill Mediah Sausans	Kill 5600 Mediah Sausans.
+459	Kill Followers	Kill 5200 Followers at the Mediah Elric Monastery.
+460	Kill Wandering Rogues	Kill 6100 Wandering Rogues at the Mediah Wandering Rogue Den.
+498	Kill Wandering Rogues	Kill 6100 Wandering Rogues at the Mediah Wandering Rogue Den.
+530	Kill Manes in Mediah	Kill 6100 Manes in Mediah.
+461	Kill Valencia Centaurs	Kill 3800 Valencia Centaurs.
+462	Kill Valencia Basilisks	Kill 3800 Valencia Basilisks.
+520	Kill Valencian Bashims	Kill 4500 Valencian Bashims.
+521	Kill Cadry Cultists	Kill 4500 Cadry Cultists in Valencia.
+522	Kill Waragons	Kill 4500 Waragons in Valencia.
+523	Kill Desert Fogans	Kill 4500 Desert Fogans in Valencia.
+524	Kill Crescent Cultists	Kill 4500 Crescent Cultists in Valencia.
+525	Kill Desert Naga	Kill 4500 Desert Naga in Valencia.
+526	Kill Gahaz Bandits	Kill 4500 Gahaz Bandits in Valencia.
+1001	Boss Kill Frenzied Skeletons	Kill 750 Frenzied Skeletons at the Soldier’s Grave.
+1002	Boss Kill Barbarians	Kill 600 Barbarians at the Abandoned Iron Mine.
+580	Boss Kill Ferrids	Kill 280 Ferrids at the Omar Lava Cave.
+581	Boss Kill Manes	Kill 300 Manes at the Manes Hideout.
+1005	Boss KIll Ancient Weapons	KIll 750 Ancient Weapons at the Hasrah Ancient Ruins.
+1006	Boss Kill Sausans	Kill 600 Sausans at the Sausan Garrison.
+582	Boss Kill Wandering Rogues	Kill 300 Wandering Rogues at the Wandering Rogue Den.
+583	Boss Kill Mutant Test Subjects	Kill 250 Mutant Test Subjects in Marni's 2nd Lab.
+1009	Boss Kill Frenzied Skeletons	Kill 750 Frenzied Skeletons at the Soldier’s Grave.
+1010	Boss Kill Barbarians	Kill 600 Barbarians at the Abandoned Iron Mine.
+584	Boss Kill Ferrids	Kill 280 Ferrids at the Omar Lava Cave.
+585	Boss Kill Manes	Kill 300 Manes at the Manes Hideout.
+1013	Boss KIll Ancient Weapons	KIll 750 Ancient Weapons at the Hasrah Ancient Ruins.
+1014	Boss Kill Sausans	Kill 600 Sausans at the Sausan Garrison.
+586	Boss Kill Wandering Rogues	Kill 300 Wandering Rogues at the Wandering Rogue Den.
+587	Boss Kill Mutant Test Subjects	Kill 250 Mutant Test Subjects in Marni's 2nd Lab.
+1017	Boss Kill Frenzied Skeletons	Kill 750 Frenzied Skeletons at the Soldier’s Grave.
+1018	Boss Kill Barbarians	Kill 600 Barbarians at the Abandoned Iron Mine.
+588	Boss Kill Ferrids	Kill 280 Ferrids at the Omar Lava Cave.
+589	Boss Kill Manes	Kill 300 Manes at the Manes Hideout.
+1021	Boss KIll Ancient Weapons	KIll 750 Ancient Weapons at the Hasrah Ancient Ruins.
+1022	Boss Kill Sausans	Kill 600 Sausans at the Sausan Garrison.
+590	Boss Kill Wandering Rogues	Kill 300 Wandering Rogues at the Wandering Rogue Den.
+591	Boss Kill Mutant Test Subjects	Kill 250 Mutant Test Subjects in Marni's 2nd Lab.
