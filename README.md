@@ -54,9 +54,9 @@ Answer is obvious: you must not, i wish this to be keept free and public and mai
 
 # VALIDATION / EXPIRATION DATES
 
-Validation Start: June 22 2016
+Validation Start: June 29 2016
 
-Expiration Date: June 29 2016
+Expiration Date: July 06 2016
 
 # DISCLAIMER
 
