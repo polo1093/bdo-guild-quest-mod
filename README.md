@@ -1,4 +1,4 @@
-#Guild Quest Condition-Objetive Pre-Viewer
+#Guild Quest Condition-Objetive Pre-Viewer [Updated on 29-06-2016]
 
 * What is it?
 
