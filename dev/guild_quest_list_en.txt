@@ -122,6 +122,7 @@
 503	Kill Crescent Cultists	Kill 1800 Crescent Cultists in Valencia.
 504	Kill Desert Naga	Kill 1800 Desert Naga in Valencia.
 505	Kill Gahaz Bandits	Kill 1800 Gahaz Bandits in Valencia.
+592	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters.
 406	Kill Giants	Kill 4000 Giants at the Keplan Primal Giant Post.
 481	Kill Giants	Kill 4000 Giants at the Keplan Primal Giant Post.
 407	Kill Tree Spirits	Kill 3200 Tree Spirits in Southwestern Calpheon.
@@ -150,6 +151,7 @@
 510	Kill Crescent Cultists	Kill 2500 Crescent Cultists in Valencia.
 511	Kill Desert Naga	Kill 2500 Desert Naga in Valencia.
 512	Kill Gahaz Bandits	Kill 2500 Gahaz Bandits in Valencia.
+593	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters.
 411	Kill Giants	Kill 5500 Giants at the Keplan Primal Giant Post.
 487	Kill Giants	Kill 5500 Giants at the Keplan Primal Giant Post.
 412	Kill Tree Spirits	Kill 4800 Tree Spirits in Southwestern Calpheon.
@@ -178,6 +180,7 @@
 517	Kill Crescent Cultists	Kill 3500 Crescent Cultists in Valencia.
 518	Kill Desert Naga	Kill 3500 Desert Naga in Valencia.
 519	Kill Gahaz Bandits	Kill 3500 Gahaz Bandits in Valencia.
+594	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters.
 416	Kill Giants	Kill 7000 Giants at the Keplan Primal Giant Post.
 493	Kill Giants	Kill 7000 Giants at the Keplan Primal Giant Post.
 417	Kill Tree Spirits	Kill 6500 Tree Spirits in Southwestern Calpheon.
@@ -206,6 +209,7 @@
 524	Kill Crescent Cultists	Kill 4500 Crescent Cultists in Valencia.
 525	Kill Desert Naga	Kill 4500 Desert Naga in Valencia.
 526	Kill Gahaz Bandits	Kill 4500 Gahaz Bandits in Valencia.
+595	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters
 1001	Boss Kill Frenzied Skeletons	Kill 750 Frenzied Skeletons at the Soldier’s Grave.
 1002	Boss Kill Barbarians	Kill 600 Barbarians at the Abandoned Iron Mine.
 580	Boss Kill Ferrids	Kill 280 Ferrids at the Omar Lava Cave.

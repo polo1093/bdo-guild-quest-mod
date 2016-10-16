@@ -122,6 +122,7 @@
 503	[Soumission] Protéger les villageois	[1800] Vaincre des cultistes du croissant à Valencia ;
 504	[Soumission] Protéger les villageois	[1800] Vaincre des nagas du désert à Valencia ;
 505	[Soumission] Protéger les villageois	[1800] Vaincre des bandits de Gahaz à Valencia ;
+592	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
 406	[Soumission] Protéger les villageois	[4000] Tuer les géants du poste des géants originels de Keplan ;
 481	[Soumission] Protéger les villageois	[4000] Tuer les géants du poste des géants originels de Keplan ;
 407	[Soumission] Protéger les villageois	[3200] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
@@ -150,6 +151,7 @@
 510	[Soumission] Protéger les villageois	[2500] Vaincre des cultistes du croissant à Valencia ;
 511	[Soumission] Protéger les villageois	[2500] Vaincre des nagas du désert à Valencia ;
 512	[Soumission] Protéger les villageois	[2500] Vaincre des bandits de Gahaz à Valencia ;
+593	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
 411	[Soumission] Protéger les villageois	[5500] Tuer les géants du poste des géants originels de Keplan ;
 487	[Soumission] Protéger les villageois	[5500] Tuer les géants du poste des géants originels de Keplan ;
 412	[Soumission] Protéger les villageois	[4800] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
@@ -178,6 +180,7 @@
 517	[Soumission] Protéger les villageois	[3500] Vaincre des cultistes du croissant à Valencia ;
 518	[Soumission] Protéger les villageois	[3500] Vaincre des nagas du désert à Valencia ;
 519	[Soumission] Protéger les villageois	[3500] Vaincre des bandits de Gahaz à Valencia ;
+594	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
 416	[Soumission] Protéger les villageois	[7000] Tuer les géants du poste des géants originels de Keplan ;
 493	[Soumission] Protéger les villageois	[7000] Tuer les géants du poste des géants originels de Keplan ;
 417	[Soumission] Protéger les villageois	[6500] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
@@ -206,6 +209,7 @@
 524	[Soumission] Protéger les villageois	[4500] Vaincre des cultistes du croissant à Valencia ;
 525	[Soumission] Protéger les villageois	[4500] Vaincre des nagas du désert à Valencia ;
 526	[Soumission] Protéger les villageois	[4500] Vaincre des bandits de Gahaz à Valencia ;
+595	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
 1001	[Soumission de boss] Assaut à la Tombe du soldat	[750] Tuer les squelettes frénétiques à la Tombe du soldat ;
 1002	[Soumission de boss] Assaut à la mine de fer abandonnée	[600] Tuer les barbares de la mine de fer abandonnée ;
 580	[Soumission de boss] Élimination de ferrids	[280] Tuer les ferrids de la grotte de lave d'Omar ;
