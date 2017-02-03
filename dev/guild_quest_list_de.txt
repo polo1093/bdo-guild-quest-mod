@@ -76,6 +76,14 @@
 255	[Sammeln] Gildenversorgungsmission	[70] Fangt Kugelfisch.
 256	[Sammeln] Gildenversorgungsmission	[10] Fangt Mönchsfisch.
 257	[Sammeln] Gildenversorgungsmission	[150] Fangt Hering, Fangt Meerbrasse.
+273	[Ereignis] Margoria Abenteuer	Sammelt 40 Korallenstück, 40 Auster, 10 Muschel and Fangt 5 Schwertfisch.
+274	[Ereignis] Margoria Abenteuer	Sammelt 40 Korallenstück, 40 Seaweed, 10 Muschel and Fangt 5 Meerbrasse.
+275	[Ereignis] Margoria Abenteuer	Sammelt 60 Korallenstück, 60 Auster, 20 Muschel and Fangt 10 Thunfisch.
+276	[Ereignis] Margoria Abenteuer	Sammelt 60 Korallenstück, 60 Seaweed, 20 Muschel and Fangt 10 Gestreifter Judenfisch.
+277	[Ereignis] Margoria Abenteuer	Sammelt 80 Tangleweed, 80 Auster, 30 Muschel and Fangt 15 Speerfisch.
+278	[Ereignis] Margoria Abenteuer	Sammelt 80 Tangleweed, 80 Seaweed, 30 Muschel and Fangt 15 Knabberfisch.
+279	[Ereignis] Margoria Abenteuer	Sammelt 100 Tangleweed, 100 Auster, 40 Muschel and Fangt 20 Speerfisch.
+280	[Ereignis] Margoria Abenteuer	Sammelt 100 Tangleweed, 100 Seaweed, 40 Muschel and Fangt 20 Schnee-Königsmakrele.
 429	[Unterwerfung] Beschützt die Dorfbewohner	[1000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 469	[Unterwerfung] Beschützt die Dorfbewohner	[1000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 430	[Unterwerfung] Beschützt die Dorfbewohner	[800] Tötet die Treants in Südwest-Calpheon.

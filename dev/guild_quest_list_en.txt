@@ -76,6 +76,14 @@
 255	Fish Swellfish	Fish 70 Swellfish.
 256	Fish Smokey Chromis	Fish 10 Smokey Chromis.
 257	Fish Herring, Porgy	Fish 150 Herring or Porgy.
+273	[Event] Margoria’s Adventurer	Gather 40 Coral Piece, 40 Oyster, 10 Clam and Fish 5 Yellow Swordfish.
+274	[Event] Margoria’s Adventurer	Gather 40 Coral Piece, 40 Seaweed, 10 Clam and Fish 5 Porgy.
+275	[Event] Margoria’s Adventurer	Gather 60 Coral Piece, 60 Oyster, 20 Clam and Fish 10 Tuna.
+276	[Event] Margoria’s Adventurer	Gather 60 Coral Piece, 60 Seaweed, 20 Clam and Fish 10 Striped Jewfish.
+277	[Event] Margoria’s Adventurer	Gather 80 Tangleweed, 80 Oyster, 30 Clam and Fish 15 Marlin.
+278	[Event] Margoria’s Adventurer	Gather 80 Tangleweed, 80 Seaweed, 30 Clam and Fish 15 Dried Nibbler.
+279	[Event] Margoria’s Adventurer	Gather 100 Tangleweed, 100 Oyster, 40 Clam and Fish 20 Marlin.
+280	[Event] Margoria’s Adventurer	Gather 100 Tangleweed, 100 Seaweed, 40 Clam and Fish 20 Bonito.
 429	Kill Giants	Kill 1000 Giants at the Keplan Primal Giant Post.
 469	Kill Giants	Kill 1000 Giants at the Keplan Primal Giant Post.
 430	Kill Treants	Kill 800 Treants in Southwestern Calpheon.

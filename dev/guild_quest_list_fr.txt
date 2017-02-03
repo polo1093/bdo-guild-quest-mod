@@ -76,6 +76,14 @@
 255	[Récolte] Mission d'approvisionnement de guilde	[70] Attraper un poisson-globe;
 256	[Récolte] Mission d'approvisionnement de guilde	[10] Attraper un chromis fumé.
 257	[Récolte] Mission d'approvisionnement de guilde	[150] Attraper un hareng, Attraper un pagre.
+273	[Événement] Aventurier de Margoria	Récolter 40 Corail, 40 Huitre, 10 Palourde and Pêcher 5 Espadon.
+274	[Événement] Aventurier de Margoria	Récolter 40 Corail, 40 Seaweed, 10 Palourde and Pêcher 5 Pagre.
+275	[Événement] Aventurier de Margoria	Récolter 60 Corail, 60 Huitre, 20 Palourde and Pêcher 10 Thon.
+276	[Événement] Aventurier de Margoria	Récolter 60 Corail, 60 Seaweed, 20 Palourde and Pêcher 10 Mérou rayé.
+277	[Événement] Aventurier de Margoria	Récolter 80 Tangleweed, 80 Huitre, 30 Palourde and Pêcher 15 Marlin.
+278	[Événement] Aventurier de Margoria	Récolter 80 Tangleweed, 80 Seaweed, 30 Palourde and Pêcher 15 Nibbla.
+279	[Événement] Aventurier de Margoria	Récolter 100 Tangleweed, 100 Huitre, 40 Palourde and Pêcher 20 Marlin.
+280	[Événement] Aventurier de Margoria	Récolter 100 Tangleweed, 100 Seaweed, 40 Palourde and Pêcher 20 Bonito.
 429	[Soumission] Protéger les villageois	[1000] Tuer les géants du poste des géants originels de Keplan ;
 469	[Soumission] Protéger les villageois	[1000] Tuer les géants du poste des géants originels de Keplan ;
 430	[Soumission] Protéger les villageois	[800] Tuer les tréants de Calpheon Sud-Ouest ;

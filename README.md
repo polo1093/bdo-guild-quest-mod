@@ -1,4 +1,4 @@
-#Guild Quest Condition-Objetive Pre-Viewer [Updated on 11-01-2017]
+#Guild Quest Condition-Objetive Pre-Viewer [Updated on 03-02-2017]
 
 * What is it?
 
@@ -54,9 +54,9 @@ Answer is obvious: you must not, i wish this to be keept free and public and mai
 
 # VALIDATION / EXPIRATION DATES
 
-Validation Start: January 11 2017
+Validation Start: February 01 2017
 
-Expiration Date: January 18 2017
+Expiration Date: February 08 2017
 
 # DISCLAIMER
 
