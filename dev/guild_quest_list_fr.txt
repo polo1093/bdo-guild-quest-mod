@@ -76,14 +76,6 @@
 255	[Récolte] Mission d'approvisionnement de guilde	[70] Attraper un poisson-globe;
 256	[Récolte] Mission d'approvisionnement de guilde	[10] Attraper un chromis fumé.
 257	[Récolte] Mission d'approvisionnement de guilde	[150] Attraper un hareng, Attraper un pagre.
-273	[Événement] Aventurier de Margoria	Récolter 40 Corail, 40 Huitre, 10 Palourde and Pêcher 5 Espadon.
-274	[Événement] Aventurier de Margoria	Récolter 40 Corail, 40 Seaweed, 10 Palourde and Pêcher 5 Pagre.
-275	[Événement] Aventurier de Margoria	Récolter 60 Corail, 60 Huitre, 20 Palourde and Pêcher 10 Thon.
-276	[Événement] Aventurier de Margoria	Récolter 60 Corail, 60 Seaweed, 20 Palourde and Pêcher 10 Mérou rayé.
-277	[Événement] Aventurier de Margoria	Récolter 80 Tangleweed, 80 Huitre, 30 Palourde and Pêcher 15 Marlin.
-278	[Événement] Aventurier de Margoria	Récolter 80 Tangleweed, 80 Seaweed, 30 Palourde and Pêcher 15 Nibbla.
-279	[Événement] Aventurier de Margoria	Récolter 100 Tangleweed, 100 Huitre, 40 Palourde and Pêcher 20 Marlin.
-280	[Événement] Aventurier de Margoria	Récolter 100 Tangleweed, 100 Seaweed, 40 Palourde and Pêcher 20 Bonito.
 429	[Soumission] Protéger les villageois	[1000] Tuer les géants du poste des géants originels de Keplan ;
 469	[Soumission] Protéger les villageois	[1000] Tuer les géants du poste des géants originels de Keplan ;
 430	[Soumission] Protéger les villageois	[800] Tuer les tréants de Calpheon Sud-Ouest ;
@@ -130,7 +122,7 @@
 503	[Soumission] Protéger les villageois	[1800] Vaincre des cultistes du croissant à Valencia ;
 504	[Soumission] Protéger les villageois	[1800] Vaincre des nagas du désert à Valencia ;
 505	[Soumission] Protéger les villageois	[1800] Vaincre des bandits de Gahaz à Valencia ;
-592	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
+592	[Soumission] Protéger les villageois	[2] Margoria Sea Monster ;
 406	[Soumission] Protéger les villageois	[4000] Tuer les géants du poste des géants originels de Keplan ;
 481	[Soumission] Protéger les villageois	[4000] Tuer les géants du poste des géants originels de Keplan ;
 407	[Soumission] Protéger les villageois	[3200] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
@@ -159,7 +151,7 @@
 510	[Soumission] Protéger les villageois	[2500] Vaincre des cultistes du croissant à Valencia ;
 511	[Soumission] Protéger les villageois	[2500] Vaincre des nagas du désert à Valencia ;
 512	[Soumission] Protéger les villageois	[2500] Vaincre des bandits de Gahaz à Valencia ;
-593	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
+593	[Soumission] Protéger les villageois	[3] Margoria Sea Monster ;
 411	[Soumission] Protéger les villageois	[5500] Tuer les géants du poste des géants originels de Keplan ;
 487	[Soumission] Protéger les villageois	[5500] Tuer les géants du poste des géants originels de Keplan ;
 412	[Soumission] Protéger les villageois	[4800] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
@@ -188,7 +180,7 @@
 517	[Soumission] Protéger les villageois	[3500] Vaincre des cultistes du croissant à Valencia ;
 518	[Soumission] Protéger les villageois	[3500] Vaincre des nagas du désert à Valencia ;
 519	[Soumission] Protéger les villageois	[3500] Vaincre des bandits de Gahaz à Valencia ;
-594	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
+594	[Soumission] Protéger les villageois	[4] Margoria Sea Monster ;
 416	[Soumission] Protéger les villageois	[7000] Tuer les géants du poste des géants originels de Keplan ;
 493	[Soumission] Protéger les villageois	[7000] Tuer les géants du poste des géants originels de Keplan ;
 417	[Soumission] Protéger les villageois	[6500] Tuer les esprits des arbres à Calpheon Sud-Ouest ;
@@ -217,7 +209,17 @@
 524	[Soumission] Protéger les villageois	[4500] Vaincre des cultistes du croissant à Valencia ;
 525	[Soumission] Protéger les villageois	[4500] Vaincre des nagas du désert à Valencia ;
 526	[Soumission] Protéger les villageois	[4500] Vaincre des bandits de Gahaz à Valencia ;
-595	[Soumission] Protéger les villageois	[0000] Margot Ria Marine Monsters ;
+595	[Soumission] Protéger les villageois	[5] Margoria Sea Monster ;
+531	[Soumission] Protéger les villageois	[1000] Vaincre les cultistes au monastère ;
+532	[Soumission] Protéger les villageois	[2500] Vaincre les cultistes au monastère ;
+533	[Soumission] Protéger les villageois	[4000] Vaincre les cultistes au monastère ;
+534	[Soumission] Protéger les villageois	[5500] Vaincre les cultistes au monastère ;
+535	[Soumission] Protéger les villageois	[7000] Vaincre les cultistes au monastère ;
+536	[Soumission] Protéger les villageois	[1000] Vaincre les rebelles des ruines du château ;
+537	[Soumission] Protéger les villageois	[2500] Vaincre les rebelles des ruines du château ;
+538	[Soumission] Protéger les villageois	[4000] Vaincre les rebelles des ruines du château ;
+539	[Soumission] Protéger les villageois	[5500] Vaincre les rebelles des ruines du château ;
+540	[Soumission] Protéger les villageois	[7000] Vaincre les rebelles des ruines du château ;
 1001	[Soumission de boss] Assaut à la Tombe du soldat	[750] Tuer les squelettes frénétiques à la Tombe du soldat ;
 1002	[Soumission de boss] Assaut à la mine de fer abandonnée	[600] Tuer les barbares de la mine de fer abandonnée ;
 580	[Soumission de boss] Élimination de ferrids	[280] Tuer les ferrids de la grotte de lave d'Omar ;

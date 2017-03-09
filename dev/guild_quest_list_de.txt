@@ -76,14 +76,6 @@
 255	[Sammeln] Gildenversorgungsmission	[70] Fangt Kugelfisch.
 256	[Sammeln] Gildenversorgungsmission	[10] Fangt Mönchsfisch.
 257	[Sammeln] Gildenversorgungsmission	[150] Fangt Hering, Fangt Meerbrasse.
-273	[Ereignis] Margoria Abenteuer	Sammelt 40 Korallenstück, 40 Auster, 10 Muschel and Fangt 5 Schwertfisch.
-274	[Ereignis] Margoria Abenteuer	Sammelt 40 Korallenstück, 40 Seaweed, 10 Muschel and Fangt 5 Meerbrasse.
-275	[Ereignis] Margoria Abenteuer	Sammelt 60 Korallenstück, 60 Auster, 20 Muschel and Fangt 10 Thunfisch.
-276	[Ereignis] Margoria Abenteuer	Sammelt 60 Korallenstück, 60 Seaweed, 20 Muschel and Fangt 10 Gestreifter Judenfisch.
-277	[Ereignis] Margoria Abenteuer	Sammelt 80 Tangleweed, 80 Auster, 30 Muschel and Fangt 15 Speerfisch.
-278	[Ereignis] Margoria Abenteuer	Sammelt 80 Tangleweed, 80 Seaweed, 30 Muschel and Fangt 15 Knabberfisch.
-279	[Ereignis] Margoria Abenteuer	Sammelt 100 Tangleweed, 100 Auster, 40 Muschel and Fangt 20 Speerfisch.
-280	[Ereignis] Margoria Abenteuer	Sammelt 100 Tangleweed, 100 Seaweed, 40 Muschel and Fangt 20 Schnee-Königsmakrele.
 429	[Unterwerfung] Beschützt die Dorfbewohner	[1000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 469	[Unterwerfung] Beschützt die Dorfbewohner	[1000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 430	[Unterwerfung] Beschützt die Dorfbewohner	[800] Tötet die Treants in Südwest-Calpheon.
@@ -130,7 +122,7 @@
 503	[Unterwerfung] Beschützt die Dorfbewohner	[1800] Besiegt Halbmond-Kultisten in Valencia.
 504	[Unterwerfung] Beschützt die Dorfbewohner	[1800] Besiegt Wüstennagas in Valencia.
 505	[Unterwerfung] Beschützt die Dorfbewohner	[1800] Besiegt Gahaz-Banditen in Valencia.
-592	[Unterwerfung] Beschützt die Dorfbewohner	[0000] Margot Ria Marine Monsters.
+592	[Unterwerfung] Beschützt die Dorfbewohner	[1] Margoria Sea Monster.
 406	[Unterwerfung] Beschützt die Dorfbewohner	[4000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 481	[Unterwerfung] Beschützt die Dorfbewohner	[4000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 407	[Unterwerfung] Beschützt die Dorfbewohner	[3200] Tötet die Baumgeister in Südwest-Calpheon.
@@ -159,7 +151,7 @@
 510	[Unterwerfung] Beschützt die Dorfbewohner	[2500] Besiegt Halbmond-Kultisten in Valencia.
 511	[Unterwerfung] Beschützt die Dorfbewohner	[2500] Besiegt Wüstennagas in Valencia.
 512	[Unterwerfung] Beschützt die Dorfbewohner	[2500] Besiegt Gahaz-Banditen in Valencia.
-593	[Unterwerfung] Beschützt die Dorfbewohner	[0000] Margot Ria Marine Monsters.
+593	[Unterwerfung] Beschützt die Dorfbewohner	[2] Margoria Sea Monster.
 411	[Unterwerfung] Beschützt die Dorfbewohner	[5500] Tötet die Riesen am Wachposten der Riesen in Keplan.
 487	[Unterwerfung] Beschützt die Dorfbewohner	[5500] Tötet die Riesen am Wachposten der Riesen in Keplan.
 412	[Unterwerfung] Beschützt die Dorfbewohner	[4800] Tötet die Baumgeister in Südwest-Calpheon.
@@ -188,7 +180,7 @@
 517	[Unterwerfung] Beschützt die Dorfbewohner	[3500] Besiegt Halbmond-Kultisten in Valencia.
 518	[Unterwerfung] Beschützt die Dorfbewohner	[3500] Besiegt Wüstennagas in Valencia.
 519	[Unterwerfung] Beschützt die Dorfbewohner	[3500] Besiegt Gahaz-Banditen in Valencia.
-594	[Unterwerfung] Beschützt die Dorfbewohner	[0000] Margot Ria Marine Monsters.
+594	[Unterwerfung] Beschützt die Dorfbewohner	[3] Margoria Sea Monster.
 416	[Unterwerfung] Beschützt die Dorfbewohner	[7000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 493	[Unterwerfung] Beschützt die Dorfbewohner	[7000] Tötet die Riesen am Wachposten der Riesen in Keplan.
 417	[Unterwerfung] Beschützt die Dorfbewohner	[6500] Tötet die Baumgeister in Südwest-Calpheon.
@@ -217,7 +209,17 @@
 524	[Unterwerfung] Beschützt die Dorfbewohner	[4500] Besiegt Halbmond-Kultisten in Valencia.
 525	[Unterwerfung] Beschützt die Dorfbewohner	[4500] Besiegt Wüstennagas in Valencia.
 526	[Unterwerfung] Beschützt die Dorfbewohner	[4500] Besiegt Gahaz-Banditen in Valencia.
-595	[Unterwerfung] Beschützt die Dorfbewohner	[0000] Margot Ria Marine Monsters.
+595	[Unterwerfung] Beschützt die Dorfbewohner	[4] Margoria Sea Monster.
+531	[Unterwerfung] Beschützt die Dorfbewohner	[1000] Besiegt die Kultisten beim Kloster.
+532	[Unterwerfung] Beschützt die Dorfbewohner	[2500] Besiegt die Kultisten beim Kloster.
+533	[Unterwerfung] Beschützt die Dorfbewohner	[4000] Besiegt die Kultisten beim Kloster.
+534	[Unterwerfung] Beschützt die Dorfbewohner	[5500] Besiegt die Kultisten beim Kloster.
+535	[Unterwerfung] Beschützt die Dorfbewohner	[7000] Besiegt die Kultisten beim Kloster.
+536	[Unterwerfung] Beschützt die Dorfbewohner	[1000] Besiegt die Rebellen der Schlossruinen.
+537	[Unterwerfung] Beschützt die Dorfbewohner	[2500] Besiegt die Rebellen der Schlossruinen.
+538	[Unterwerfung] Beschützt die Dorfbewohner	[4000] Besiegt die Rebellen der Schlossruinen.
+539	[Unterwerfung] Beschützt die Dorfbewohner	[5500] Besiegt die Rebellen der Schlossruinen.
+540	[Unterwerfung] Beschützt die Dorfbewohner	[7000] Besiegt die Rebellen der Schlossruinen.
 1001	[Bossunterwerfung] Angriff auf das Soldatengrab	[750] Bezwingt die Rasenden Skelette am Soldatengrab.
 1002	[Bossunterwerfung] Angriff auf die Verlassene Eisenmine	[600] Tötet die Barbaren in der Verlassenen Eisenmine.
 580	[Bossunterwerfung] Bezwingung der Ferriden	[280] Tötet die Ferriden in der Omar-Lavahöhle.

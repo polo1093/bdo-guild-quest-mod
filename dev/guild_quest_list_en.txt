@@ -76,14 +76,6 @@
 255	Fish Swellfish	Fish 70 Swellfish.
 256	Fish Smokey Chromis	Fish 10 Smokey Chromis.
 257	Fish Herring, Porgy	Fish 150 Herring or Porgy.
-273	[Event] Margoria’s Adventurer	Gather 40 Coral Piece, 40 Oyster, 10 Clam and Fish 5 Yellow Swordfish.
-274	[Event] Margoria’s Adventurer	Gather 40 Coral Piece, 40 Seaweed, 10 Clam and Fish 5 Porgy.
-275	[Event] Margoria’s Adventurer	Gather 60 Coral Piece, 60 Oyster, 20 Clam and Fish 10 Tuna.
-276	[Event] Margoria’s Adventurer	Gather 60 Coral Piece, 60 Seaweed, 20 Clam and Fish 10 Striped Jewfish.
-277	[Event] Margoria’s Adventurer	Gather 80 Tangleweed, 80 Oyster, 30 Clam and Fish 15 Marlin.
-278	[Event] Margoria’s Adventurer	Gather 80 Tangleweed, 80 Seaweed, 30 Clam and Fish 15 Dried Nibbler.
-279	[Event] Margoria’s Adventurer	Gather 100 Tangleweed, 100 Oyster, 40 Clam and Fish 20 Marlin.
-280	[Event] Margoria’s Adventurer	Gather 100 Tangleweed, 100 Seaweed, 40 Clam and Fish 20 Bonito.
 429	Kill Giants	Kill 1000 Giants at the Keplan Primal Giant Post.
 469	Kill Giants	Kill 1000 Giants at the Keplan Primal Giant Post.
 430	Kill Treants	Kill 800 Treants in Southwestern Calpheon.
@@ -130,7 +122,7 @@
 503	Kill Crescent Cultists	Kill 1800 Crescent Cultists in Valencia.
 504	Kill Desert Naga	Kill 1800 Desert Naga in Valencia.
 505	Kill Gahaz Bandits	Kill 1800 Gahaz Bandits in Valencia.
-592	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters.
+592	Kill Margoria Sea Monster	Kill 2 Margoria Sea Monster.
 406	Kill Giants	Kill 4000 Giants at the Keplan Primal Giant Post.
 481	Kill Giants	Kill 4000 Giants at the Keplan Primal Giant Post.
 407	Kill Tree Spirits	Kill 3200 Tree Spirits in Southwestern Calpheon.
@@ -159,7 +151,7 @@
 510	Kill Crescent Cultists	Kill 2500 Crescent Cultists in Valencia.
 511	Kill Desert Naga	Kill 2500 Desert Naga in Valencia.
 512	Kill Gahaz Bandits	Kill 2500 Gahaz Bandits in Valencia.
-593	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters.
+593	Kill Margoria Sea Monster	Kill 3 Margoria Sea Monster.
 411	Kill Giants	Kill 5500 Giants at the Keplan Primal Giant Post.
 487	Kill Giants	Kill 5500 Giants at the Keplan Primal Giant Post.
 412	Kill Tree Spirits	Kill 4800 Tree Spirits in Southwestern Calpheon.
@@ -188,7 +180,7 @@
 517	Kill Crescent Cultists	Kill 3500 Crescent Cultists in Valencia.
 518	Kill Desert Naga	Kill 3500 Desert Naga in Valencia.
 519	Kill Gahaz Bandits	Kill 3500 Gahaz Bandits in Valencia.
-594	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters.
+594	Kill Margoria Sea Monster	Kill 4 Margoria Sea Monster.
 416	Kill Giants	Kill 7000 Giants at the Keplan Primal Giant Post.
 493	Kill Giants	Kill 7000 Giants at the Keplan Primal Giant Post.
 417	Kill Tree Spirits	Kill 6500 Tree Spirits in Southwestern Calpheon.
@@ -217,7 +209,17 @@
 524	Kill Crescent Cultists	Kill 4500 Crescent Cultists in Valencia.
 525	Kill Desert Naga	Kill 4500 Desert Naga in Valencia.
 526	Kill Gahaz Bandits	Kill 4500 Gahaz Bandits in Valencia.
-595	Kill Margot Ria Marine Monsters	Kill 0000 Margot Ria Marine Monsters
+595	Kill Margoria Sea Monster	Kill 5 Margoria Sea Monster
+531	Kill Monastery Cultists	Kill 1000 Monastery Cultists.
+532	Kill Monastery Cultists	Kill 2500 Monastery Cultists.
+533	Kill Monastery Cultists	Kill 4000 Monastery Cultists.
+534	Kill Monastery Cultists	Kill 5500 Monastery Cultists.
+535	Kill Monastery Cultists	Kill 7000 Monastery Cultists.
+536	Kill Rebels of Castle Ruins	Kill 1000 Rebels of Castle Ruins.
+537	Kill Rebels of Castle Ruins	Kill 2500 Rebels of Castle Ruins.
+538	Kill Rebels of Castle Ruins	Kill 4000 Rebels of Castle Ruins.
+539	Kill Rebels of Castle Ruins	Kill 5500 Rebels of Castle Ruins.
+540	Kill Rebels of Castle Ruins	Kill 7000 Rebels of Castle Ruins.
 1001	Boss Kill Frenzied Skeletons	Kill 750 Frenzied Skeletons at the Soldier’s Grave.
 1002	Boss Kill Barbarians	Kill 600 Barbarians at the Abandoned Iron Mine.
 580	Boss Kill Ferrids	Kill 280 Ferrids at the Omar Lava Cave.
